@@ -1,4 +1,0 @@
-CafeEveryOne
-============
-
-Cafe Every One
